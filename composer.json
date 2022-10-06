@@ -1,5 +1,5 @@
 {
-    "name": "softHeroes/indenting-persistent-blade-compiler",
+    "name": "softheroes/indenting-persistent-blade-compiler",
     "description": "Extension on the Laravel Blade compiler that persists indenting when using replaced content in blade templates.",
     "keywords": ["laravel", "blade", "compiler", "indenting"],
     "authors": [
